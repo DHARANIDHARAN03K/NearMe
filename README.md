@@ -160,13 +160,17 @@ Gingee.html
 ```
 
 ## OUTPUT
+![select](https://github.com/DHARANIDHARAN03K/NearMe/assets/144870858/a597305c-f13e-43e7-ac57-50dbeb9d4039)
+![vettavalam](https://github.com/DHARANIDHARAN03K/NearMe/assets/144870858/9ac1eb16-1cc6-4eef-acb8-481c54e4f1cc)
+![gingee](https://github.com/DHARANIDHARAN03K/NearMe/assets/144870858/83e2b257-57ea-42b5-a195-75fdde7f77c0)
+![thandarampattu](https://github.com/DHARANIDHARAN03K/NearMe/assets/144870858/76478639-8688-4ccb-b202-3eb77ed5749a)
+![thanipadi](https://github.com/DHARANIDHARAN03K/NearMe/assets/144870858/6b5147f6-fb58-4ccb-a520-89e13070fa94)
+![tvm](https://github.com/DHARANIDHARAN03K/NearMe/assets/144870858/5fc50df6-3688-4454-b88c-4c18c4a651f0)
 
-![Alt text](select.png)
-![Alt text](thanipadi.png)
-![Alt text](tvm.png)
-![Alt text](gingee.png)
-![Alt text](thandarampattu.png)
-![Alt text](vettavalam.png)
+
+
+
+
 
 
 
